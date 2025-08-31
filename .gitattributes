@@ -1,0 +1,2 @@
+# In your project root directory (same level as README.md)
+echo "*.ipynb linguist-vendored" > .gitattributes
